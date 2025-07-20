@@ -4,8 +4,8 @@
   "description": "Devtinder for Backend code practice",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "npx nodemon app.js"
+    "start": "node src/App.js",
+    "dev": "nodemon src/App.js"
   },
   "keywords": [
     "node",
